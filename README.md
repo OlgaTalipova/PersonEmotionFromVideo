@@ -32,4 +32,9 @@
 Наилучшие показатели точности на валидационной выборке (84%) в результате обучения получены моделью сверточной сети со следующей архитектурой:
 ![image](https://github.com/OlgaTalipova/PersonEmotionFromVideo/assets/95358146/67fd13b3-4091-4d91-ae77-99f527143550)
 
+![image](https://github.com/OlgaTalipova/PersonEmotionFromVideo/assets/95358146/b8bce6b6-ed31-462f-9201-4b23254407db)
+
 Обученная модель была развернута на сервисе Anvil. Для просмотра работы модели необходимо запустить все ячейки ноутбука predict.ipynb из каталога [my_app](https://drive.google.com/drive/folders/1OdYtzFMMqFe1aqC8rtblrpeDkXpFbIzU?usp=share_link) для запуска серверной части сервиса, а затем перейти по [ссылке](https://emotion.anvil.app/)
+
+![image](https://github.com/OlgaTalipova/PersonEmotionFromVideo/assets/95358146/c51f585f-1eb3-49f8-8ceb-45cb2ecb26e7)
+
